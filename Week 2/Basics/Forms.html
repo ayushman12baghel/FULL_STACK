@@ -9,7 +9,12 @@
     <form action="/action">
       <div>
         <label for="username"> Username : </label>
-        <input type="text" id="username" placeholder="Enter Username" />
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Enter Username"
+        />
       </div>
       <div>
         <label for="password"> Password :</label>
@@ -32,6 +37,13 @@
       <div>
         <label for="color"> Color :</label> <input type="color" id="color" />
       </div>
+      <button type="submit">Submit</button>
+      <input type="button" value="click me" />
+      <input type="button" type="submit" value="submit" />
+    </form>
+    <form action="https://www.youtube.com/results">
+      <input type="text" placeholder="search on youtube" name="search_query" />
+      <button>Submit</button>
     </form>
   </body>
 </html>
