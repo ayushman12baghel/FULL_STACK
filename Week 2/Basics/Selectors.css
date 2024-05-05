@@ -35,3 +35,32 @@ input[type="password"]{
 input[type="text"]{
     color: red;
 }
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: none;
+}
+button:active{
+    background-color: darkblue;
+}
+
+p:active{
+    font-weight: bold;
+    color:green;
+}
+input[type="radio"]:checked+label{
+    color:red;
+    font-weight: bold;
+}
+.post:nth-of-type(2n){
+    background-color: aquamarine;
+}
+h1::first-letter{
+    color:green;
+}
+h3::selection{
+    background-color: yellow;;
+}
