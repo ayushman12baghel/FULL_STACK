@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    background-color: brown;
+  }
+  p {
+    color: darkmagenta;
+  }
+  button {
+    background-color: rgb(44, 42, 39);
+    color: rgb(128, 201, 54);
+  }
+  body{
+    background-color: rgb(128, 0, 255);
+  }
