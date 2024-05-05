@@ -15,3 +15,23 @@ h1,h3{
     background-color: green;
     color: white;
 }
+nav a{
+    color: purple;
+    background-color: yellow;
+}
+p+h3{
+    text-decoration: underline;
+}
+.upvote+button{
+    background-color: cornflowerblue;
+    color: azure;
+}
+div>input{
+    background-color: rgb(195, 180, 196);
+}
+input[type="password"]{
+    color: green;
+}
+input[type="text"]{
+    color: red;
+}
