@@ -1,0 +1,27 @@
+h1{
+    border:2px solid black;
+    width:50%;
+}
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: rebeccapurple;
+    border:2px solid black;
+    margin: 50px;
+    font-size: 10px;
+}
+
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    font-size: 2em;
+    margin:10%;
+    padding: 3em;
+}
+button{
+    font-size: 50px;
+    border-radius: 15px;
+    border:5px solid green;
+    padding:0 1em;
+}
