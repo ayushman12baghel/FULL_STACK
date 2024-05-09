@@ -1,0 +1,30 @@
+div{
+    height: 200px;
+    width:600px;
+    background-color: aqua;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+    border: 5px solid black;
+    /* border-left-color: blue;
+    border-right-color: green;
+    border-top-color: red;
+    border-bottom-color: yellow;
+    border-left-style: dotted; */
+    border-radius: 25% 10%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+h1{
+    border: 3px double red;
+    border-radius: 10px 50px 10px 20px;
+}
+button{
+    border:2px solid black;
+    background-color: yellow;
+    font-weight: 600;
+    margin: 50px;
+    padding: 0px 5px 0 5px;
+    border-radius: 10px;
+}
