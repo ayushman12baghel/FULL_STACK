@@ -21,6 +21,7 @@ div:nth-of-type(3n){
 
 #one{
     /* transform: rotate(45deg); */
+    box-shadow: 2px 3px 10px black;
 }
 
 #two{

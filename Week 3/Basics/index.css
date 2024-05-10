@@ -1,0 +1,8 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    margin: 10px auto;
+    background-image: url(https://images.pexels.com/photos/5793501/pexels-photo-5793501.jpeg?auto=compress&cs=tinysrgb&w=400);
+    background-size: contain;
+}
