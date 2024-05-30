@@ -1,0 +1,19 @@
+.nav{
+    height:50px;
+    width:900px;
+    background-color: rgb(241, 164, 177);
+    border: 2px solid green;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.items{
+    font-size: 24px;
+    font-weight: 600;
+    height: 50px;
+    width: 80px;
+    margin-left: 5px;
+    line-height: 50px;
+}
