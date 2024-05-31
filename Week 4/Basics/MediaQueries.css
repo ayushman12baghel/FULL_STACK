@@ -1,0 +1,15 @@
+h1{
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+@media (max-width:400px){
+    h1{
+        background-color: red;
+    }
+}
+@media (min-width:500px) and (max-width:700px){
+    h1{
+        background-color: blue;
+    }
+}
